@@ -19,7 +19,7 @@ The heuristic evaluation performed allowed me to determine which website I am in
 
 The website for Hawaii's Creative Industries is simple and presents general information on the type of industries Hawaii has to offer. The main content provided are general news and organizational resources for the following creative industries: Applied Design, Film, Interactive Media, Literary Arts/Publishing, Performing Arts & Music, and Visual Arts. 
 
-![https://cid.hawaii.gov](hawaiiGovWebsite.png)
+![https://cid.hawaii.gov](hawaiiGovWebsiteHome.png)
 
 ## Overall Impression:
 This website has major flaws regarding those in itself. The simple presentation is not representative of the divisions creative industries. Also, the website is extremely limited in the information provided, lacking the ability to provide users with relevant updated news and content that actually serves the typical type of user's needs. Users of this website are inferred to be creatives that are interested in useful resources and activities in Hawaii, and the website should be designed as such. Instead, the website contains generic information, lacks relevant activity searches, updated information, and detailed resources.
