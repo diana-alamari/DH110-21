@@ -178,42 +178,42 @@ Bad:
 _______________
 
 
-
-
-
-1. Visibility of system status 
+**1. Visibility of system status** 
 Always keep users informed about what is going on.
 Provide appropriate feedback within reasonable time. 
 
-Evaluation
+**Evaluation**
 
 Good: Menu options are highlighted when you click to go onto their corresponding pages.
 Bad: News button is an important menu option yet is not highlighted when selected like the rest of the menu options.
 
+> **Suggestions**
+>  - Make News button highlighted to match the other menu options.
 
 
 
-
-2. Match between system and the real world 
+**2. Match between system and the real world**
 Speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. 
 Follow real-world conventions, making information appear in a natural and logical order. 
 
-Evaluation
 
+**Evaluation**
 Bad: Home page does not contain an introduction to the state and its website’s content. It has a COVID update on closed departments, and even that does not have an introduction/headline.
 Good: Homepage slideshow is relevant to current health emergencies and support (namely COVID-19 cases and vaccine updates).
-d
+
+> **Suggestions**
+>  - Create standard introductions that are appropriate for the home screen.
 
 
 
-3. User control and freedom 
+**3. User control and freedom**
 Users often choose system functions by mistake.
 Provide a clearly marked "out" to leave an unwanted state without having to go through an extended dialogue. 
 Support undo and redo. 
 
-Evaluation
-Good: Website allows one to smoothly return to the previous page with the browser’s standard previous page/undo button.
-Bad: Page sources particularly for news updates are very confusing between which to maneuver. The “news”, “press release”, and “featured” selections above each news update blog are misleading; they all lead to their own pages only when you click them on those news blog pages. There is no option to undo those selections and head back to the main news menu on those pages, even though those pages say that they subsequently are derived from that “news” page. 
+**Evaluation**
+- Good: Website allows one to smoothly return to the previous page with the browser’s standard previous page/undo button.
+- Bad: Page sources particularly for news updates are very confusing between which to maneuver. The “news”, “press release”, and “featured” selections above each news update blog are misleading; they all lead to their own pages only when you click them on those news blog pages. There is no option to undo those selections and head back to the main news menu on those pages, even though those pages say that they subsequently are derived from that “news” page. 
 
 
 
@@ -228,8 +228,7 @@ Bad: Page sources particularly for news updates are very confusing between which
 - The layout of this sequence is confusing for one to read because it is placed on the top of the page in a way that implies you can head back to the news page, but the news page is not clickable.
 
 > **Suggestions**
->  - f 
->  - j
+>  - Allow users to return back to the news page.
 
 
 
@@ -239,6 +238,12 @@ Bad: Page sources particularly for news updates are very confusing between which
 
 **Evaluation**
 - Some links on site do not work such as “Environmental Health Warehouse” on https://health.hawaii.gov/about/health-topics/#ems
+
+> **Suggestions**
+>  - Correctly link resources to links posted.
+> - Alternatively, delete unusable links altogether. 
+
+
 
 **6. Recognition rather than recall**
 > - Make objects, actions, and options visible. 
@@ -250,8 +255,8 @@ Bad: Page sources particularly for news updates are very confusing between which
 - Menu option titles that are long get covered if the browser window gets resized! You can’t read the whole thing.
 
 > **Suggestions**
->  - f 
->  - j
+>  - Set banner and menu option titles to resize when window size is adjusted.
+
 
 
 **7. Flexibility and efficiency of use** 
@@ -265,8 +270,7 @@ Bad: Page sources particularly for news updates are very confusing between which
 - There are no submenu options, or any filter options to narrow down the type of news one seeks for. For example, if you are searching for restaurant safety updates, you are unable to click on a dedicated “food health” submenu selection (that can fall under the “news” menu option). https://health.hawaii.gov/news/newsroom/hawaii-department-of-health-issues-red-placard-to-kamana-indian-cuisine-restaurant-in-kailua-kona/
 
 > **Suggestions**
->  - f 
->  - j
+>  - Make menu hoverable for convenience in dropdown usability.
 
 
 
@@ -281,8 +285,8 @@ Bad: Page sources particularly for news updates are very confusing between which
   **- It should be organized into its own section with its own headline, or within the “Job Opportunities” link that is at the bottom of the page.
 
 > **Suggestions**
->  - f 
->  - j
+>  - Create a uniform and consistent theme across the whole website. 
+>  - Replace employment page's content with information that users may want to see (such as resources to find jobs, or a search function to search for jobs directly on the page.
 
 
 
@@ -296,8 +300,7 @@ Bad: Page sources particularly for news updates are very confusing between which
   - For example, if you type “novid-19” instead of “covid-19”, it will not ask if you meant to type the latter; it will just say “sorry, no results found.”
 
 > **Suggestions**
->  - f 
->  - j
+>  - Create alternative suggestion feature to correct search errors.
 
 
 
@@ -306,16 +309,11 @@ Bad: Page sources particularly for news updates are very confusing between which
 > - Help information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large. 
 
 **Evaluation**
-- Good: Although not equipped with alternative/spelling suggestions, there is a search bar that loads info. 
-- Bad: Search information is very often not relevant to keywords entered in search bar. For example, _ _ _ _ js
-
 - Good: The “Info Line” phone number for quick verbal help in regards to relevant website content is listed at the bottom of the page.
 - Bad: It is written as “Info Line 808-586-4400” and highlighted when you scroll over it as if it were clickable like the other menu options, when it is not clickable. 
   - It is listed as a link along with the other options like “program directory, terms of use, accessibility”, but you cannot click it, making it not uniform and misleading.
 - Not uniform.
 
 > **Suggestions**
->  - f 
->  - j
-
+>  - Allow the Info Line to be clickable and hyperlinked. 
 
