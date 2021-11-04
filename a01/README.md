@@ -64,7 +64,7 @@ Bad:
 - Bad: Page sources particularly for news updates are very confusing between which to maneuver. The “news”, “press release”, and “featured” selections above each news update blog are misleading; they all lead to their own pages only when you click them on those news blog pages. There is no option to undo those selections and head back to the main news menu on those pages, even though those pages say that they subsequently are derived from that “news” page. 
 
 > **Suggestions** 
-
+> - Add options to head back to the main news menu on those pages. 
 
 
 
@@ -78,11 +78,9 @@ Bad:
 - The layout of this sequence is confusing for one to read because it is placed on the top of the page in a way that implies you can head back to the news page, but the news page is not clickable.
 
 > **Suggestions**
-> f
-> f
+> - Allow the news event sections to be linked back to the main news page.
+> - Turn featured/main/press releases into searchable keywords.
  
-
-
 
 
 
@@ -93,7 +91,7 @@ Bad:
 - Searching for particular topics will result in many irrelevant search results. For example, searching for “music activities” pops up with a 2017 news article with content related to its title which is “Creative Lab Hawaii Announces Participants and Coaches for 2017 Music Immersive”, which is not only outdated, but also is not relevant to discovering music activities.
 
 > **Suggestions** 
-> k
+> Gather keywords from these articles that allow for precise searches/optimized searches.
 
 
 
@@ -108,8 +106,7 @@ Bad:
 - Bad: Due to the lack of submenus under the main “news” menu bar as mentioned earlier, you have to remember that you can only be redirected to news page subcategories (such as those mentioned above under #5 and #6) under individual blogs on the news page. 
 
 > **Suggestions**
-> d
-> d
+> - Create submenu items for featured/main/press releases.
 
 
 
@@ -125,7 +122,7 @@ Bad:
 - You are only able to click onto those pages within the news pages’ individual blog posts. You are unable to click on a dedicated press release or featured submenu selection (that should fall under the “news” menu option).
 
 > **Suggestions** 
-> f
+> - Create pages for press release and featured that are navigable; make them easy to get to through the news page as well as menu selections, and easy to exit.
 > f
 
 
@@ -140,8 +137,8 @@ Bad:
 - Each creative art page does not particularly contain information pertaining to what Hawaii has to offer or what differs Hawaii from other states.
 
 > **Suggestions** 
-> f
-> f
+> Eliminate irrelevant generic info and replace with artistic information unique to Hawaii
+> Include resources reflective of the type of website viewers in mind (likely creatives with interest in traveling to Hawaii and getting involved in an art activities.)
 
 
 
@@ -158,9 +155,8 @@ Bad:
   - For example, if you type “nusic” instead of “music”, it will not ask if you meant to type music; it will just say “sorry, no results found.”
 
 > **Suggestions** 
-> f
-> f
-> 
+> - Create alternative suggestions for optimized searches.
+
 
 
 
@@ -174,8 +170,16 @@ Bad:
 - Bad: Search information is very often not relevant to keywords entered in search bar. For example, ____ 
 
 > **Suggestions**
-> f
-> f
+> - Optimize articles and create keywords for them so that precise searches can be performed.
+> - Create sort and filter options to narrow search results.
+
+
+
+_______________
+
+
+
+
 
 1. Visibility of system status 
 Always keep users informed about what is going on.
