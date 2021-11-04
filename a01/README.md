@@ -194,13 +194,13 @@ This website is designed with more structure than the Creative Industries site. 
 
 
 **1. Visibility of system status** 
-Always keep users informed about what is going on.
-Provide appropriate feedback within reasonable time. 
+> - Always keep users informed about what is going on.
+> - Provide appropriate feedback within reasonable time. 
 
 **Evaluation**
 
-Good: Menu options are highlighted when you click to go onto their corresponding pages.
-Bad: News button is an important menu option yet is not highlighted when selected like the rest of the menu options.
+- Good: Menu options are highlighted when you click to go onto their corresponding pages.
+- Bad: News button is an important menu option yet is not highlighted when selected like the rest of the menu options.
 
 > **Suggestions**
 >  - Make News button highlighted to match the other menu options.
@@ -208,13 +208,13 @@ Bad: News button is an important menu option yet is not highlighted when selecte
 
 
 **2. Match between system and the real world**
-Speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. 
-Follow real-world conventions, making information appear in a natural and logical order. 
+> - Speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. 
+> - Follow real-world conventions, making information appear in a natural and logical order. 
 
 
 **Evaluation**
-Bad: Home page does not contain an introduction to the state and its website’s content. It has a COVID update on closed departments, and even that does not have an introduction/headline.
-Good: Homepage slideshow is relevant to current health emergencies and support (namely COVID-19 cases and vaccine updates).
+- Bad: Home page does not contain an introduction to the state and its website’s content. It has a COVID update on closed departments, and even that does not have an introduction/headline.
+- Good: Homepage slideshow is relevant to current health emergencies and support (namely COVID-19 cases and vaccine updates).
 
 > **Suggestions**
 >  - Create standard introductions that are appropriate for the home screen.
@@ -222,14 +222,16 @@ Good: Homepage slideshow is relevant to current health emergencies and support (
 
 
 **3. User control and freedom**
-Users often choose system functions by mistake.
-Provide a clearly marked "out" to leave an unwanted state without having to go through an extended dialogue. 
-Support undo and redo. 
+> - Users often choose system functions by mistake.
+> - Provide a clearly marked "out" to leave an unwanted state without having to go through an extended dialogue. 
+> - Support undo and redo. 
 
 **Evaluation**
 - Good: Website allows one to smoothly return to the previous page with the browser’s standard previous page/undo button.
 - Bad: Page sources particularly for news updates are very confusing between which to maneuver. The “news”, “press release”, and “featured” selections above each news update blog are misleading; they all lead to their own pages only when you click them on those news blog pages. There is no option to undo those selections and head back to the main news menu on those pages, even though those pages say that they subsequently are derived from that “news” page. 
 
+> **Suggestions**
+>  - Create an option to go back to the source (news page) or undo selections.
 
 
 
@@ -255,7 +257,7 @@ Support undo and redo.
 - Some links on site do not work such as “Environmental Health Warehouse” on https://health.hawaii.gov/about/health-topics/#ems
 
 > **Suggestions**
->  - Correctly link resources to links posted.
+> - Correctly link resources to links posted.
 > - Alternatively, delete unusable links altogether. 
 
 
