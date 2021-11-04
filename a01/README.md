@@ -36,7 +36,7 @@ This website has major flaws regarding those in itself. The simple presentation 
 > **Suggestions** 
 > - Highlight the News menu to match the rest of the menu options.
 
-
+__
 
 **2. Match between system and the real world**
 > - Speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. 
@@ -52,7 +52,7 @@ Bad:
 >   - Or, keep COVID update in the same spot, but in smaller font and boxed to clearly distinguish it as an update.
 > - Create a short introduction with the existing industries that are individually boxed directly underneath.
 
-
+__
 
 **3. User control and freedom** 
 > - Users often choose system functions by mistake.
@@ -66,8 +66,7 @@ Bad:
 > **Suggestions** 
 > - Add options to head back to the main news menu on those pages. 
 
-
-
+__
 
 **4. Consistency and standards**
 > - Users should not have to wonder whether different words, situations, or actions mean the same thing. 
@@ -81,8 +80,7 @@ Bad:
 > - Allow the news event sections to be linked back to the main news page.
 > - Turn featured/main/press releases into searchable keywords.
  
-
-
+__
 
 **5. Error prevention**
 > - Even better than good error messages is a careful design which prevents a problem from occurring in the first place. 
@@ -93,9 +91,7 @@ Bad:
 > **Suggestions** 
 > Gather keywords from these articles that allow for precise searches/optimized searches.
 
-
-
-
+__
 
 **6. Recognition rather than recall** 
 > - Make objects, actions, and options visible. 
@@ -108,9 +104,7 @@ Bad:
 > **Suggestions**
 > - Create submenu items for featured/main/press releases.
 
-
-
-
+__
 
 **7. Flexibility and efficiency of use** 
 > - Accelerators -- unseen by the novice user -- may often speed up the interaction for the expert user so that the system can cater to both inexperienced and experienced users. 
@@ -123,11 +117,8 @@ Bad:
 
 > **Suggestions** 
 > - Create pages for press release and featured that are navigable; make them easy to get to through the news page as well as menu selections, and easy to exit.
-> f
 
-
-
-
+__
 
 **8. Aesthetic and minimalist design**
 > - Dialogues should not contain information which is irrelevant or rarely needed. 
@@ -140,9 +131,7 @@ Bad:
 > Eliminate irrelevant generic info and replace with artistic information unique to Hawaii
 > Include resources reflective of the type of website viewers in mind (likely creatives with interest in traveling to Hawaii and getting involved in an art activities.)
 
-
-
-
+__
 
 **9. Help users recognize, diagnose, and recover from errors** 
 > - Expressed in plain language (no codes)
@@ -157,9 +146,7 @@ Bad:
 > **Suggestions** 
 > - Create alternative suggestions for optimized searches.
 
-
-
-
+__
 
 **10. Help and documentation**
 > - Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. 
@@ -205,7 +192,7 @@ This website is designed with more structure than the Creative Industries site. 
 > **Suggestions**
 >  - Make News button highlighted to match the other menu options.
 
-
+__
 
 **2. Match between system and the real world**
 > - Speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. 
@@ -219,7 +206,7 @@ This website is designed with more structure than the Creative Industries site. 
 > **Suggestions**
 >  - Create standard introductions that are appropriate for the home screen.
 
-
+__
 
 **3. User control and freedom**
 > - Users often choose system functions by mistake.
@@ -233,7 +220,7 @@ This website is designed with more structure than the Creative Industries site. 
 > **Suggestions**
 >  - Create an option to go back to the source (news page) or undo selections.
 
-
+__
 
 **4. Consistency and standards** 
 > - Users should not have to wonder whether different words, situations, or actions mean the same thing. 
@@ -247,8 +234,7 @@ This website is designed with more structure than the Creative Industries site. 
 > **Suggestions**
 >  - Allow users to return back to the news page.
 
-
-
+__
 
 **5. Error prevention** 
 > - Even better than good error messages is a careful design which prevents a problem from occurring in the first place. 
@@ -260,7 +246,7 @@ This website is designed with more structure than the Creative Industries site. 
 > - Correctly link resources to links posted.
 > - Alternatively, delete unusable links altogether. 
 
-
+__
 
 **6. Recognition rather than recall**
 > - Make objects, actions, and options visible. 
@@ -274,7 +260,7 @@ This website is designed with more structure than the Creative Industries site. 
 > **Suggestions**
 >  - Set banner and menu option titles to resize when window size is adjusted.
 
-
+__
 
 **7. Flexibility and efficiency of use** 
 > - Accelerators -- unseen by the novice user -- may often speed up the interaction for the expert user so that the system can cater to both inexperienced and experienced users. 
@@ -289,8 +275,7 @@ This website is designed with more structure than the Creative Industries site. 
 > **Suggestions**
 >  - Make menu hoverable for convenience in dropdown usability.
 
-
-
+__
 
 **8. Aesthetic and minimalist design**
 > - Dialogues should not contain information which is irrelevant or rarely needed. 
@@ -305,7 +290,7 @@ This website is designed with more structure than the Creative Industries site. 
 >  - Create a uniform and consistent theme across the whole website. 
 >  - Replace employment page's content with information that users may want to see (such as resources to find jobs, or a search function to search for jobs directly on the page.
 
-
+__
 
 **9. Help users recognize, diagnose, and recover from errors** 
 > - Expressed in plain language (no codes)
@@ -319,7 +304,7 @@ This website is designed with more structure than the Creative Industries site. 
 > **Suggestions**
 >  - Create alternative suggestion feature to correct search errors.
 
-
+__
 
 **10. Help and documentation**
 > - Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. 
