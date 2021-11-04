@@ -43,8 +43,7 @@ __
 > - Follow real-world conventions, making information appear in a natural and logical order. 
 
 **Evaluation**
-Bad:
-- Home page does not contain an introduction to the state and its website’s content. It has a COVID update on closed departments, and even that does not have an introduction/headline.
+- Bad: Home page does not contain an introduction to the state and its website’s content. It has a COVID update on closed departments, and even that does not have an introduction/headline.
 - The headline “Aloha Mai Kakou” is followed by the COVID update content, and yet there is no seamless transition. 
 
 > **Suggestions**
