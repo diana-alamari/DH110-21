@@ -175,7 +175,8 @@ Bad:
 
 
 
-_______________
+________________________________________
+
 
 
 
@@ -183,7 +184,7 @@ _______________
 
 The website for Hawaii's Department of Health presents general information on the health resources Hawaii has to offer. The main content provided are general news and organizational resources for particular health topics including: COVID information, family health services; woman, infants and children (WIC); and mental health.
 
-![https://health.hawaii.gov](hawaiiGovWebsiteHome.png)
+![https://health.hawaii.gov](HawaiiHealthGovSite.png)
 
 ## Overall Impression:
 
