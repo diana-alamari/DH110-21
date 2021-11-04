@@ -178,6 +178,20 @@ Bad:
 _______________
 
 
+
+# Website 2: [Hawaii State Department of Health](https://health.hawaii.gov)
+
+The website for Hawaii's Department of Health presents general information on the health resources Hawaii has to offer. The main content provided are general news and organizational resources for particular health topics including: COVID information, family health services; woman, infants and children (WIC); and mental health.
+
+![https://health.hawaii.gov](hawaiiGovWebsiteHome.png)
+
+## Overall Impression:
+
+This website is designed with more structure than the Creative Industries site. The presentation is simple like the previous site, but it is fitting for the division of Health. There are some functional errors especially within the news and resources sections, and like the Creative Industries site, lacks relevant activity searches, updated information, and detailed resources.
+
+
+
+
 **1. Visibility of system status** 
 Always keep users informed about what is going on.
 Provide appropriate feedback within reasonable time. 
