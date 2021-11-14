@@ -26,6 +26,8 @@ Particularly, the [resource page links](https://cid.hawaii.gov/resources-page/) 
 
 ### **Usability Testing Materials**
 
+A survey was prepared to gain concrete usability feedback from the participant. A video of the pilot test was recorded for continous reference of the participant observation. These will provide context for the app's features that I will be prototyping later into the UX process. 
+
 [Online Survey](https://docs.google.com/forms/d/e/1FAIpQLSeHc4OJ6yKzuptW0ZAyBDQEhej7BByslsSsqcUp5R4WbyGRcg/viewform)
 
 [Pilot Testing Video](https://youtu.be/mx73aik3bpc)
