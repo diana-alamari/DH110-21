@@ -58,7 +58,7 @@ Particularly, the [resource page links](https://cid.hawaii.gov/resources-page/) 
 </details>
 
 
-______________
+&nbsp;
 
 ***Why these tasks?***
 
