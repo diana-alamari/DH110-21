@@ -1,7 +1,8 @@
 # Creative Industry Resources for Visitors and Residents of Hawaii
 ## Assignment 2: Usability Testing
-Hawaii Creative Industries: Overview
-Hawaii's Creative Industries website contains brief overviews to creative divisions such as music and film, as well as their respective activities and resources. There is also a separate page that lists resource links per division. However I have noticed some areas upon which the website could use some improvement for smoother user interaction. To analyze a user's experience with the site, I will conduct usability testing through a pilot study, which will involve recruiting a participant for user feedback.
+***Website Overview***
+
+[Hawaii's Creative Industries website](https://cid.hawaii.gov/) contains brief overviews to creative divisions such as music and film, as well as their respective activities and resources. There is also a separate page that lists resource links per division. However I have noticed some areas upon which the website could use some improvement for smoother user interaction. To analyze a user's experience with the site, I will conduct usability testing through a pilot study, which will involve recruiting a participant for user feedback.
 
  ***Purpose of Usability Testing***
 
@@ -23,7 +24,7 @@ Particularly, the [resource page links](https://cid.hawaii.gov/resources-page/) 
 
  &nbsp;
 
-***Usability Testing Materials***
+### **Usability Testing Materials**
 
 [Online Survey](https://docs.google.com/forms/d/e/1FAIpQLSeHc4OJ6yKzuptW0ZAyBDQEhej7BByslsSsqcUp5R4WbyGRcg/viewform)
 
