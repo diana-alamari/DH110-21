@@ -34,7 +34,7 @@ A survey was prepared to gain concrete usability feedback from the participant. 
 
 
 
-**The pilot test consisted of three main tasks intended for participant completion:**
+**The pilot test consisted of three main tasks intended for participant completion. Click on each of the following for details:**
 <details>
   <summary> 1. Find upcoming music/theatre events in Hawaii. </summary>
     
