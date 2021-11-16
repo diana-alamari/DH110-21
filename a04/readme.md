@@ -14,8 +14,32 @@ Based on previous heuristic and user-participant work, I would like to explore t
 ## Personas and Empathy Maps
 ### Persona 1: Eilana 
 
+![https://cid.hawaii.gov](hawaiiGovWebsiteHome.png)
+
+### Empathy Map
+
+
+![https://cid.hawaii.gov](hawaiiGovWebsiteHome.png)
+
+
 ### Persona 2: Leo
 
 
+![https://cid.hawaii.gov](hawaiiGovWebsiteHome.png)
+
+### Empathy Map
+
 
 ## Scenarios & Journey Maps
+
+### Leo's Scenario - Searching and filtering creative events
+
+
+
+
+### Eilana's Scenario - Interacting with fellow creatives through uploaded event posts
+
+
+
+## Reflection
+I enjoyed the process of creating personas and stories. By going through details of their personas, empathy maps, scenarios, and journey maps, I felt a sense of connecting with potential users of my app. It is important for designers to be build a connection with targeted users. I did build pretty peculiar personas -- but honestly, I also have experience meeting people who are very, very similar to these user profiles. There is definitely an appeal for such a comprehensive creative app because of its broad creative appeal; however, working on user challenges really did require creative input into the development of individual personas.
