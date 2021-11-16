@@ -1,6 +1,6 @@
 # Creative Industry Resources for Visitors and Residents of Hawaii
 ## Assignment 04: User Personas, Stories, and Scenarios
-Diana Alamari, Digital Humanities 110 | User Experience and Design | Fall 2021
+Diana Alamari | Digital Humanities 110 | User Experience and Design | Fall 2021
 
 ### Purpose of UX Storytelling
 UX Stories allow designers to envision user needs and pain points with empathy. By learning the emotional perspectives of users, designers can transform written context into visual stories. Visial stories evoke emotional responses from target users. Users become allured with visuals that address their narratives. In order to create memorable experiences, designers must envoke a sense of feeling seen -- persuading users to invest time into their creation.
