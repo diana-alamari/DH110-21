@@ -13,8 +13,8 @@ I conducted Heuristic evaluation on the site
 
 <table>
 <tr>
-<td> <img src=”https://raw.githubusercontent.com/diana-alamari/DH110-21/main/a01/hawaiiGovWebsiteHome.png” height=”300px”> </td>
-<td> <img src=”https://raw.githubusercontent.com/diana-alamari/DH110-21/main/a01/hawaiiGovWebsiteHome.png” height=”300px”> </td>
+<td> <img src=”https://raw.githubusercontent.com/diana-alamari/DH110-21/main/a01/hawaiiGovWebsiteHome.png” height=”300px”></img> </td>
+<td> <img src=”https://raw.githubusercontent.com/diana-alamari/DH110-21/main/a01/hawaiiGovWebsiteHome.png” height=”300px”></img> </td>
 </tr>
 </table>
 
