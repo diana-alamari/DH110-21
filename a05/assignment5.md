@@ -22,19 +22,19 @@ To determine what the average user might want, I made inferences through heurist
   </details>
 
 **From Persona to Low-Fidelity Prototype**
+
 This process was foundational to start low-fidelity prototyping; I needed to comprehend a user's journey to provide me the ability to visualize desirable components of an app. Lo-fi prototyping allows designers to test and improve upon tentative functions proposed on an interface. My low-fidelity prototyping aims to address the typical user's problems by allowing them to find upcoming events through a community of people with common interests.
 
 
 &nbsp;
+____________
 
-_______________ 
-### Tasks
+## Tasks
 The two main tasks that will ultimately be prototyped are:
 1. The ability to search for a creative event relevant to the user's interests 
 2. The ability to contact others associated with that event. 
 
 &nbsp;
-
 
 ## Wireframes & User Wireflow
 
@@ -49,7 +49,7 @@ I recruited a participant to test this prototype's features and bugs. The proces
 <img src="https://github.com/diana-alamari/DH110-21/blob/main/a05/a5%20user%20testing%20wireflow.jpg" width=80% height=80%>
 
 **Task 1**
-*Rows 1 and 2*
+
 The participant really wanted to search by typing at the top. I really considered making that interactive in my prototype, but I wanted to keep the upload filter selection included. 
 
 Also, he was not what the filter and sort buttons meant, as they were not labelled. 
