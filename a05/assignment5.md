@@ -13,3 +13,19 @@ The two main tasks that will ultimately be prototyped are:
 2. The ability to contact others associated with the event.
 
 
+Testing
+
+I recruited a participant to test this prototype's features and bugs. The process is demonstrated below.
+
+
+![sdf](a5 wireflow.jpg)
+(pictures of their walk through)
+
+The user understood this part.
+Although the user got confused at this part.
+
+The user took an unexpected turn at -- as I intended for them to go to the frame that says "---". 
+
+
+### Reflection
+The process overall went well. The participant's confusion wasn't as expect at ---. However, I now know to improve upon ---. I also know to clean up ----. 
