@@ -14,6 +14,8 @@ The two tasks that the high-fidelity prototype supports (will fully support in t
 - Task 2: Messaging a user (the event uploader/organizer)
   - After finding the event (concert), users are able to message the person who posted the event. 
 
+![Wireflow of Hawaii Creative Corner](https://github.com/diana-alamari/DH110-21/blob/main/a07/wireflow%20a7%20.png)
+
 
 **Figma File**: https://www.figma.com/file/7MAiZOcY6fOEXr1NExItKh/a7-prototype?node-id=0%3A1
 
