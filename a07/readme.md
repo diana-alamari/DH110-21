@@ -8,7 +8,7 @@ The purpose of my project is to provide a space for music enthusiasts to be able
 
 ## Tasks + Prototype
 
-The two tasks that the high-fidelity prototype supports (will fully support in the next two days as the project finishes up) are listed:
+The two tasks that the high-fidelity prototype supports (will fully support in the next few days as the project finishes up) are listed:
 - Task 1: Finding an event via filter
   - Users are able to search under one of two divisions: music and film, to find a related event. In this prototype, users are able to find a community-uploaded concert. 
 - Task 2: Messaging a user (the event uploader/organizer)
@@ -21,3 +21,8 @@ The two tasks that the high-fidelity prototype supports (will fully support in t
 
 *Please scroll down on the interactive prototype to make sure it is completely visible.
 
+
+
+## Cognitive Walkthrough:
+
+I made some changes from the low-fidelity prototype that changed not only the look of the prototype, but some functions as well. I had one participant follow visually through the wireflow, until the prototype is completely finished. They found the transition to mostly be easier than the participant who had evaluated. The part that stood out to him as confusing is the selected concert page, where it shows the poster. He was confused in navigating out of the app to get tickets, and in messaging the poster. Because of this, I added a message button underneath the poster's picture on that page to add some clarity.
