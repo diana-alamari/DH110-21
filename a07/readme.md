@@ -1,0 +1,20 @@
+# #7: High Fidelity Prototype
+Diana Alamari, DH110: User Experience and Design
+
+
+## Introduction
+The purpose of my project is to provide a space for music enthusiasts to be able to fulfull all their music and film needs in Hawaii. Residents and visitors alike will benefit from the app. The app presents a comprehensive approach to finding events, social activities, and career/creative studio resources, all in one spot. Users are able to upload upcoming events that they have organized or those organized by others. This allows users of the app to be given as much resources as possible; in other words, user-uploaded activities gives users extra events/resources to explore, instead of sticking to only tourist/generic activities that are already online/able to be found with just a google search away.
+
+
+## Tasks + Prototype
+
+The two tasks that the high-fidelity prototype supports (will fully support in the next two days as the project finishes up) are listed:
+- Task 1: Finding an event via filter
+  - Users are able to search under one of two divisions: music and film, to find a related event. In this prototype, users are able to find a community-uploaded concert. 
+- Task 2: Messaging a user (the event uploader/organizer)
+  - After finding the event (concert), users are able to message the person who posted the event. 
+
+
+**Figma File**: 
+
+**Figma Prototype**: 
