@@ -15,6 +15,9 @@ The two tasks that the high-fidelity prototype supports (will fully support in t
   - After finding the event (concert), users are able to message the person who posted the event. 
 
 
-**Figma File**: 
+**Figma File**: https://www.figma.com/file/7MAiZOcY6fOEXr1NExItKh/a7-prototype?node-id=0%3A1
 
-**Figma Prototype**: 
+**Figma Prototype**: https://www.figma.com/proto/7MAiZOcY6fOEXr1NExItKh/a7-prototype?node-id=13%3A731&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=13%3A731
+
+*Please scroll down on the interactive prototype to make sure it is completely visible.
+
