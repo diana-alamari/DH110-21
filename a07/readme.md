@@ -22,7 +22,11 @@ The two tasks that the high-fidelity prototype supports (will fully support in t
 *Please scroll down on the interactive prototype to make sure it is completely visible.
 
 
-
-## Cognitive Walkthrough:
+## Findings and Notes
+### Cognitive Walkthrough:
 
 I made some changes from the low-fidelity prototype that changed not only the look of the prototype, but some functions as well. I had one participant follow visually through the wireflow, until the prototype is completely finished. They found the transition to mostly be easier than the participant who had evaluated. The part that stood out to him as confusing is the selected concert page, where it shows the poster. He was confused in navigating out of the app to get tickets, and in messaging the poster. Because of this, I added a message button underneath the poster's picture on that page to add some clarity.
+
+### Additional Notes:
+
+The ability to click back, along with some other intended functions, still needs to be made interactive. The high-fidelity prototype will see much more improvement before the next assignment. 
