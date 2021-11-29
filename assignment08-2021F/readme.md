@@ -43,7 +43,7 @@ The heuristic evaluation performed allowed me to determine which website I am in
 
 By conducting usability testing, I was able to see an outsider's perspective on the level of usability functions on the Hawaii CID site. I had a participant perform three tasks related to weaknesses and strengths found through the heuristic evaluation. The areas of weakness on the site were illuminated as I had the user perform each task, which you can find below. 
 
-[The usability testing process](https://github.com/diana-alamari/DH110-21/tree/main/a01)
+[The usability testing process](https://github.com/diana-alamari/DH110-21/tree/main/a02)
 
 
 (Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
@@ -56,6 +56,8 @@ The user research process gathers valuable input on what resources are most impo
 2. **Creatives want the above as well as workshops, creative studios, and career-oriented resources**. They want those to: improve upon their vocal, instrument, filming, or producing skills; surround themselves with fellow creatives for networking or friends; search/train for a job that is the right fit for their creative needs. 
 3. **All users need meaningful interaction with the site to use it/possibly keep using it**. To do that, they need to be able to find what they want (a concert, latest general entertainment events, cheap recording studios, film production workshops...) quickly and with ease.
 
+[More on the contextual inquiry](https://github.com/diana-alamari/DH110-21/blob/main/a03/readme.md)
+
 Based off this, I was able to get a foundational understanding of app features that entertainment enthusiasts would want to use.
 
 ### UX storytelling [persona+scenario, assignment05]
@@ -66,11 +68,25 @@ By determining conceptually useful app features through the previous UX steps, I
 
 I created two personas of potential app users: Eilana and Leo, both of which are introduced below.
 
+**Leo**
+Persona and Empathy Mapping
+![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana.png)
+![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana-1.png)
 
+Scenario and Journey Mapping
+![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana's%20Scenario_%20Why%20and%20How.png)
+![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana's%20Journey%20Map.png)
 
+**Eilana**
+![Eilana](https://github.com/diana-alamari/DH110-21/blob/main/a04/Eilana.png)
+![Eilana](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4/Eilana.png)
+
+Scenario and Journey Map
+![Eilana](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4/Eilana's%20Scenario_%20Why%20and%20How.png)
+![Eilana](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4/Eilana's%20Journey%20Map.png)
 
 To learn more about Eilana, Leo, and the perspective gained through their user journeys, 
-[refer here](     )
+[refer here](https://github.com/diana-alamari/DH110-21/tree/main/a04)
 
 
 _
@@ -78,7 +94,7 @@ _
 
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
 
-After investigating user personas, the app's concept was cemented for the low-fidelity prototype to be built. 
+Based on the user personas, I created wireframes that provide a basic layout of how the app looks and more importantly, what features will be included for target users (creatives traveling to or residing in Hawaii). 
 
 
 
@@ -89,10 +105,28 @@ After investigating user personas, the app's concept was cemented for the low-fi
 ### Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
+With the wireflow done, The app's concept features has been cemented for the low-fidelity prototype to be built. The wireflow demonstrates how the interactive tasks will be conducted. The interactive tasks are:
+
+1. Find a (concert) event uploaded by a user of the app.
+2.View uploader's profile and message her.
+
+(Bonus) Pop-up the main menu to head back home; message the uploader directly from her event post (clicking "message under her profile picture)
+
+
+
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FhpuI4nItK6OpAKFugfXIrg%2FDH110-21-A5%253A-Low-Fidelity-HCC-Prototype-Arrows%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
+
+![View more on low-fi prototype](https://github.com/diana-alamari/DH110-21/blob/main/a05/assignment5.md)
+
+
 
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
+
+
+
 
 ### Evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
