@@ -125,6 +125,10 @@ With the wireflow done, The app's concept features has been cemented for the low
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
 
+After trail-and-error through the low-fi prototype as well as a participant's testing, I made various key changes, including the clarity of words written in buttons, so that users can understand exactly where they will be redirected to. Of course, testing and design is meant upon which to be built, so that the app is more user-friendly, and aesthetically pleasing. Building the high-fi prototype to be interactive was a lengthy but rewarding process -- you get to see how your visioned app comes to life. 
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/7MAiZOcY6fOEXr1NExItKh/a7-prototype?node-id=13%3A731&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=13%3A731&show-proto-sidebar=1" allowfullscreen></iframe>
+
 
 
 
@@ -136,3 +140,6 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 
 ### Conclusion
 what did you learn throughout the process?
+
+
+Throughout the learning process, I was satisfied with 
