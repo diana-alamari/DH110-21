@@ -1,4 +1,4 @@
-#3 Contextual Inquiry (User Research)
+# #3 Contextual Inquiry (User Research)
 Diana Alamari | Digital Humanities 110 | User Experience and Design | Fall 2021
 
 
