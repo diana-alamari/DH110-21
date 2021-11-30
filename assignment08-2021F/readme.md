@@ -86,12 +86,12 @@ Scenario and Journey Mapping
 ![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana's%20Journey%20Map.png?raw=true)
 
 **Eilana**
-![Eilana](https://github.com/diana-alamari/DH110-21/blob/main/a04/Eilana.png)
-![Eilana](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4/Eilana.png)
+![Eilana](https://github.com/diana-alamari/DH110-21/blob/main/a04/Eilana.png?raw=true)
+![Eilana](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4/Eilana.png?raw=true)
 
 Scenario and Journey Map
-![Eilana](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4/Eilana's%20Scenario_%20Why%20and%20How.png)
-![Eilana](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4/Eilana's%20Journey%20Map.png)
+![Eilana](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4/Eilana's%20Scenario_%20Why%20and%20How.png?raw=true)
+![Eilana](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4/Eilana's%20Journey%20Map.png?raw=true)
 
 To learn more about Eilana, Leo, and the perspective gained through their user journeys, 
 [refer here](https://github.com/diana-alamari/DH110-21/tree/main/a04)
