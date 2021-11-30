@@ -14,3 +14,12 @@ The purpose of my project is to provide music and film enthusiasts visiting/resi
 
 ### Color Variations
 
+_______
+
+|Color variations|
+|-----|
+|![Color A6](https://github.com/diana-alamari/DH110-21/blob/main/a06/a6%20color%20variation.png?raw=true)|
+|Shape Variations|
+|![Shape A6](https://github.com/diana-alamari/DH110-21/blob/main/a06/a6%20shapes%20.png?raw=true)
+|Typography Variations|
+|![Typography A6](https://github.com/diana-alamari/DH110-21/blob/main/a06/a6%20typography.png?raw=true)
