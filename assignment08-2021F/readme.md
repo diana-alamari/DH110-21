@@ -210,7 +210,7 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 ### Pitch video 
 
 [Click to see pitch of the project](https://youtu.be/0mGmOWeww0c)
-* Having difficulties processing the upload of the video. 
+
 
 ### Conclusion
 
