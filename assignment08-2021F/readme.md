@@ -8,7 +8,8 @@ The high-fidelity prototype I created is an event and resource app for creatives
 
 
 ### Clear design statement: 
-What is the issue and Why do you think it is important to resolve that issue by your project?
+
+*What is the issue and why do you think it is important to resolve that issue by your project?*
 
 The Hawaii CID site lacks user accesibilty and relevant, working resources for creatives interested in Hawaii. Google SEO may pop up with lots of well-established recurring events in Hawaii, but there should always be ways to improve accessibility and tailor search results. 
 
@@ -25,15 +26,9 @@ To create more universal accessibility, I made sure to include resources inclusi
 ### Competitor analysis [assignment01 & 02]:
 
 
-<table>
-<tr>
-<td> <img src=”https://raw.githubusercontent.com/diana-alamari/DH110-21/main/a01/hawaiiGovWebsiteHome.png” height=”300px”> </img> </td>
-<td> <img src=”https://raw.githubusercontent.com/diana-alamari/DH110-21/main/a01/hawaiiGovWebsiteHome.png” height=”300px”> </img> </td>
-</tr>
-</table>
-
-
-![HI Creative Industries Website](https://raw.githubusercontent.com/diana-alamari/DH110-21/main/a01/hawaiiGovWebsiteHome.png)
+| Hawaii Creative Industries| Hawaii Department of Health|
+|--------------------------| -----------------------------|
+|![HI Creative Industries Website](https://raw.githubusercontent.com/diana-alamari/DH110-21/main/a01/hawaiiGovWebsiteHome.png)|![HI Department of Health Website](https://github.com/diana-alamari/DH110-21/blob/main/a01/HawaiiHealthGovSite.png?raw=true)|
 
 Hawaii has a broad range of government websites for their divisions. The intent of each division's website is to provide informative content from which the website user can benefit. Some divisions of Hawaii's government contain more flaws than others. It is crucial to determine what flaws are present to improve usability. For this reason, I am going to evaluate usability conditions of two Hawaii website divisions: Hawaii's Creative Industries and Hawaii State Department of Health . I selected these two very different divisions because of my interest in those division topics and their presentation through their websites. By selecting two very different websites for heuristic evaluation, I was able to obtain broader context on their strengths and weaknesses.
 
@@ -53,7 +48,7 @@ The areas of weakness on the site were illuminated as I had the user perform eac
 [The usability testing process](https://github.com/diana-alamari/DH110-21/tree/main/a02)
 
 
-### User research [contextual inquiry, assignment04]:
+### User research 
 Summary and link to your assignment folder
 
 The user research process gathers valuable input on what resources are most important to creatives/enthusiasts, and how they would search for it. I have spoken to those working in entertainment as well as general music enthusiasts and gathered some key takeaways: 
@@ -104,7 +99,7 @@ _
 
 
 ### Low-fidelity prototype 
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+
 
 With the wireflow done, The app's concept features has been cemented for the low-fidelity prototype to be built. The wireflow demonstrates how the interactive tasks will be conducted. 
 
@@ -117,8 +112,9 @@ Bonus mini-tasks:
 - Pop-up the main menu to head back home
 - Message the uploader directly from her event post (clicking "message under her profile picture)
 
-
-
+|White board wireflow|Updated low-fidelity wireflow|
+|-------------------| ----------------------------|
+|![White board](https://github.com/diana-alamari/DH110-21/blob/main/a05/wireframe%20board%20lowfi%20smaller.png?raw=true)|![Updated low-if wireflow](https://github.com/diana-alamari/DH110-21/blob/main/a05/a5%20wireflow.jpg?raw=true)|
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FhpuI4nItK6OpAKFugfXIrg%2FDH110-21-A5%253A-Low-Fidelity-HCC-Prototype-Arrows%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
