@@ -41,12 +41,17 @@ The heuristic evaluation performed allowed me to determine which website I am in
 
 [Read more about the evaluation](https://github.com/diana-alamari/DH110-21/tree/main/a01)
 
-By conducting usability testing, I was able to see an outsider's perspective on the level of usability functions on the Hawaii CID site. I had a participant perform three tasks related to weaknesses and strengths found through the heuristic evaluation. The areas of weakness on the site were illuminated as I had the user perform each task, which you can find below. 
+By conducting usability testing, I was able to see an outsider's perspective on the level of usability functions on the Hawaii CID site. I had a participant perform three tasks related to weaknesses and strengths found through the heuristic evaluation. 
+
+The tasks included:
+- Searching for a music event
+- Finding a resource with details on filming in Hawaii
+- Searching for industry economic performance
+
+The areas of weakness on the site were illuminated as I had the user perform each task, which you can find below. 
 
 [The usability testing process](https://github.com/diana-alamari/DH110-21/tree/main/a02)
 
-
-(Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
 ### User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
@@ -58,13 +63,15 @@ The user research process gathers valuable input on what resources are most impo
 
 [More on the contextual inquiry](https://github.com/diana-alamari/DH110-21/blob/main/a03/readme.md)
 
-Based off this, I was able to get a foundational understanding of app features that entertainment enthusiasts would want to use.
+Based off this, I was able to get a foundational understanding of related app features that entertainment enthusiasts would want to use.
 
 ### UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
 
-
 By determining conceptually useful app features through the previous UX steps, I translated them into creating user personas that may use those features.
+Empathizing and envisioning potential users of my app through UX storytelling is highly valuable, as it allowed me to put myself in a hypothetical user's shoes to explore how they would use my app to accomplish their desired creative goals. The process stressed key elements in what steps they would need to take to accomplish said goal. 
+
+For example, as I developed the personas, I found that it was important to address broader target user interests such as concerts, the navigation steps that targer users would take to get to the concert event page, and how key elements of their persona will be utilized in the app, such as their desire to message someone due to their social interests.
 
 I created two personas of potential app users: Eilana and Leo, both of which are introduced below.
 
@@ -88,6 +95,7 @@ Scenario and Journey Map
 To learn more about Eilana, Leo, and the perspective gained through their user journeys, 
 [refer here](https://github.com/diana-alamari/DH110-21/tree/main/a04)
 
+This provided creative forms of perspective on pursuing my app's design. The persona-journey process enables envisoning how to actually deliver what a prospective user wants. 
 
 _
 
@@ -96,12 +104,16 @@ _
 ### Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
-With the wireflow done, The app's concept features has been cemented for the low-fidelity prototype to be built. The wireflow demonstrates how the interactive tasks will be conducted. The interactive tasks are:
+With the wireflow done, The app's concept features has been cemented for the low-fidelity prototype to be built. The wireflow demonstrates how the interactive tasks will be conducted. 
+
+The interactive tasks are:
 
 1. Find a (concert) event uploaded by a user of the app.
-2.View uploader's profile and message her.
+2. View uploader's profile and message her.
 
-(Bonus) Pop-up the main menu to head back home; message the uploader directly from her event post (clicking "message under her profile picture)
+Bonus mini-tasks:
+- Pop-up the main menu to head back home
+- Message the uploader directly from her event post (clicking "message under her profile picture)
 
 
 
