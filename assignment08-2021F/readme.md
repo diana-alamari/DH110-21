@@ -77,11 +77,11 @@ I created two personas of potential app users: Eilana and Leo, both of which are
 
 **Leo**
 Persona and Empathy Mapping
-![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana.png)
-![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana-1.png)
+![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana.png?raw=true)
+![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana-1.png?raw=true)
 
 Scenario and Journey Mapping
-![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana's%20Scenario_%20Why%20and%20How.png)
+![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana's%20Scenario_%20Why%20and%20How.png?raw=true)
 
 ![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana's%20Journey%20Map.png?raw=true)
 
