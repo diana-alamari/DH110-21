@@ -131,43 +131,85 @@ Bonus mini-tasks:
 
 
 
-### Wireframes and graphic design  
+### Wireframes and early graphic design  
 
 Based on the user personas and feedback from a participant and the low fidelity prototype, I created low-fi wireflow. Then, I transferred those into digital design to prepare for the high-fidelity interactive prototype.
 
 I first started exploring design variations on just one wireframe. I created design variations as it relates to color, shape, and typographic content.
 The wireframes provided a basic layout of how the app looks and more importantly, what features will be included for target users (creatives traveling to or residing in Hawaii). 
 
-I ended up pursing the following design:
+With design variation in mind, I created the following that was used for the high-fidelity prototypes's first submission:
 ![Wireframes](https://github.com/diana-alamari/DH110-21/raw/main/a07/wireflow%20a7%20.png)
 ![Wireflow](https://github.com/diana-alamari/DH110-21/blob/main/a07/wireflow%20a7%20.png?raw=true)
 
-Based off feedback and the last pursued design, I applied the same theme to implement into completed wireframes that will be used for the high-fidelity prototype: 
 
 
 
 ### High-fidelity interactive prototype 
-Summary statement and link to or an embedded prototype
 
-After trial-and-error through the low-fi prototype as well as a participant's testing, I made various key changes, including the clarity of words written in buttons, so that users can understand exactly where they will be redirected to. Of course, testing and design is meant upon which to be built, so that the app is more user-friendly, and aesthetically pleasing. Building the high-fi prototype to be interactive was a lengthy but rewarding process -- you get to see how your visioned app comes to life. 
+After trial-and-error through the low-fi prototype as well as a participant's testing, I made various key changes and improved upon clarity of words written in buttons, so that users can understand exactly where they will be redirected to. Of course, testing and design is meant upon which to be built, so that the app is more user-friendly, and aesthetically pleasing. Building the high-fi prototype to be interactive was a lengthy but rewarding process -- you get to see how your visioned app comes to life. 
+
+The wireframes above were a part of the original high-fidelity submission, before revision. The up-to-date revised prototype is provided below.
+
+### Revised, Current Interactive Prototype
+
+Based off participant feedback from the high-fidelity submission, I updated the previously submitted high-fi prototype for improvement. 
+
+My interactive prototype, prototype file, and updated wireflow are provided below.
 
 **Interactive Prototype**
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F7MAiZOcY6fOEXr1NExItKh%2Fa7-prototype%3Fnode-id%3D13%253A731%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D13%253A731%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 
 **Hi-Fi File**
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F7MAiZOcY6fOEXr1NExItKh%2Fa7-prototype%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
+**Current Wireflow**
 
 ![Current Wireflow](https://github.com/diana-alamari/DH110-21/blob/main/a07/a7%20wireflow.png?raw=true)
 
+
+
+ 
+
 ## Evaluation and Revision History 
+
+### Evaluation Notes --- 
+
+### Revision History: Summary
+
+I had multiple phases of revisions.
+1. From the *low-fi prototype* features to improving clarity for the *original* design meant for the *high-fidelity prototype*.
+2. From the *original design* to the *first round of high-fidelity prototype*.
+3. * **(Additional Hi-fi Revision)** From participant feedback on the high-fidelity prototype *originally submitted*, to the *current design updated afterwards*.
+
+* **Hi-fi Revisions**
+ 
+*The changes to the prototype after the high-fidelity prototype submission and cognitive walkthrough that are in the interactive prototype include the following*:
+
+- After the high-fidelity prototype was created, I had a couple of users and myself evaluate it. 
+- This allowed me to spend more time noticing areas of improvement from both their perspective as well as my own (considering I am looking at the prototype along with them, and their ideas stimulate further ideas of my own.)
+- I then revised the high-fi wireframes.
+- These improvements include a cleaner chat box design, the filter exit/checkmark, and areas with unclear wording. 
+
+
+**Previous interactive high-fi wireframes:**
+
+![Wireframes before current revision](https://github.com/diana-alamari/DH110-21/blob/main/a07/wireflow%20a7%20.png?raw=true)
+
+**Current:**
+![Revised high-fi wireframes](https://github.com/diana-alamari/DH110-21/blob/main/a07/a7%20wireflow.png?raw=true)
+
+
+
+_____
+
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
-After the high-fidelity prototype was created, I had a couple of users evaluate it. This allowed me to spend more time noticing areas of improvement from both their perspective as well as my own (considering I am looking at the prototype along with them, and their ideas stimulate further ideas of my own.)
 
-### Revision History
-Before 
-![Wireframes before current revision](https://github.com/diana-alamari/DH110-21/blob/main/a07/wireflow%20a7%20.png?raw=true)
+
+
 
 ### Pitch video 
 (after this portfolio is done, you will record a pitch video and embed video here)
