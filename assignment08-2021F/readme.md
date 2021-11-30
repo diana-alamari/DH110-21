@@ -146,15 +146,16 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 (after this portfolio is done, you will record a pitch video and embed video here)
 
 ### Conclusion
-what did you learn throughout the process?
-
 
 Throughout the project's process, I was extremely satisfied with the amount of UX knowledge gained.  Building upon an app that people can use for music and film resources is something that I personally would love to utilize. The ability to implement essential component of UX/UI with creatives in the industry through my creative topic of interest has been truly invaluable. 
 
 
-There are a couple of aspects that I would change about the process of developing my project. Due to a time-related conflict along with a fairly short timeframe, I was limited in my ability to strengthen some elements more. For example, I would love to have created wireframes to prototype the community section of the app, since that is a large conceptual section in itself. Although I did utilize some of the following, I would have loved to invest further in subtle design effects that make a big difference in appearance -- such as creating linear gradients on each page, and drop shadows among various buttons. I also would have conducted mini steps of the whole process repeatedly to significantly strengthen the high-fidelity prototype. 
+For future projects, I will improve upon some steps that could have been further developed here. Due to a time-related conflict along with a fairly short timeframe, I was limited in my ability to strengthen some elements more. 
 
-Fortunately, I was able to focus instead on building foundational knowledge of how all the steps tie together, and demonstrate that understanding. There is definitely more envisioned than implemented. However, I can and will always strive to improve upon each section for future UX work -- I already have design (Photoshop as a hobby) and analytic research experience (college and current analyst job), so the UX process as a whole is most valuable to cement in my mind. 
+A couple of things I will develop in future projects: 
+I would love to have created wireframes to prototype the community section of the app, since that is a large conceptual section in itself. Although I did utilize some of the following, I would have loved to invest further in subtle design effects that make a big difference in appearance -- such as creating linear gradients on each page, and uniform drop shadows among various buttons. I also would have conducted mini steps of the whole process repeatedly to significantly strengthen the high-fidelity prototype. This includes further usability testing with my own app, participant feedback, developing more personas accordingly, and even aesthetically improving how I'd present their profiles and journey. 
+
+Fortunately, I was able to focus instead on building foundational knowledge of how all the steps tie together, and demonstrate that understanding. There is definitely more envisioned than implemented. I can and will always strive to improve upon each section for future UX work -- I already have design (Photoshop as a hobby) and analytic research experience (college and current analyst job), so the UX process as a whole is most valuable to cement in my mind. 
 
 I aimed to conceptually address all the steps I would take to deliver the creative app I envisioned. From competitor analysis and user research to user storytelling and design, all areas are essential for a UX designer to have under their belt. I am happy that I gained such comprehensive UX skills and insight so quickly. 
 
