@@ -169,7 +169,6 @@ My interactive prototype, prototype file, and updated wireflow are provided belo
 
 ## Evaluation and Revision History 
 
-### Evaluation Notes --- 
 
 ### Revision History: Summary
 
@@ -194,6 +193,9 @@ I had multiple phases of revisions.
 |------|------|
 |![Wireframes before current revision](https://github.com/diana-alamari/DH110-21/blob/main/a07/wireflow%20a7%20.png?raw=true)|![Revised high-fi wireframes](https://github.com/diana-alamari/DH110-21/blob/main/a07/a7%20wireflow.png?raw=true)|
 
+**Additional Usability Testing**
+
+I conducted additional UT work to learn what I can improve in the app for future use. I gathered the perspective of a musician who has knowledge on many music learning resource websites. He described the usability of my app as very usable and quick to use. The flaws he mentioned were having little space to click on the convert event/upload screen. He otherwise found it to be an easy experience and conceptually very beneficial, stating that he could definitely see himself using an app like this a lot, as a visitor or a new resident of Hawaii.
 
 
 _____
