@@ -65,8 +65,7 @@ The user research process gathers valuable input on what resources are most impo
 
 Based off this, I was able to get a foundational understanding of related app features that entertainment enthusiasts would want to use.
 
-### UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
+### UX storytelling 
 
 By determining conceptually useful app features through the previous UX steps, I translated them into creating user personas that may use those features.
 Empathizing and envisioning potential users of my app through UX storytelling is highly valuable, as it allowed me to put myself in a hypothetical user's shoes to explore how they would use my app to accomplish their desired creative goals. The process stressed key elements in what steps they would need to take to accomplish said goal. 
@@ -76,7 +75,9 @@ For example, as I developed the personas, I found that it was important to addre
 I created two personas of potential app users: Eilana and Leo, both of which are introduced below.
 
 **Leo**
+
 Persona and Empathy Mapping
+
 ![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana.png?raw=true)
 ![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana-1.png?raw=true)
 
@@ -86,6 +87,9 @@ Scenario and Journey Mapping
 ![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana's%20Journey%20Map.png?raw=true)
 
 **Eilana**
+
+Persona and Empathy Mapping
+
 ![Eilana](https://github.com/diana-alamari/DH110-21/blob/main/a04/Eilana.png?raw=true)
 ![Eilana](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4/Eilana.png?raw=true)
 
@@ -102,7 +106,7 @@ _
 
 
 
-### Low-fidelity prototype (wireflow, assignment06)
+### Low-fidelity prototype 
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
 With the wireflow done, The app's concept features has been cemented for the low-fidelity prototype to be built. The wireflow demonstrates how the interactive tasks will be conducted. 
@@ -127,13 +131,12 @@ Bonus mini-tasks:
 
 
 
-### Wireframe and graphic design element variation [assignment06 + part of 07]
+### Wireframes and graphic design  
 
-Based on the user personas and feedback from a participant and the low fidelity prototype, I created wireframes. 
+Based on the user personas and feedback from a participant and the low fidelity prototype, I created low-fi wireflow. Then, I transferred those into digital design to prepare for the high-fidelity interactive prototype.
 
-The wireframes provide a basic layout of how the app looks and more importantly, what features will be included for target users (creatives traveling to or residing in Hawaii). 
-
-### _ ***I first started exploring design variations on just one wireframe. I created design variations as it relates to color, shape, and typographic content.
+I first started exploring design variations on just one wireframe. I created design variations as it relates to color, shape, and typographic content.
+The wireframes provided a basic layout of how the app looks and more importantly, what features will be included for target users (creatives traveling to or residing in Hawaii). 
 
 I ended up pursing the following design:
 
@@ -142,7 +145,7 @@ Based off feedback and the last pursued design, I applied the same theme to impl
 
 
 
-### High-fidelity prototype (functional/interactive prototype, assignment08)
+### High-fidelity interactive prototype 
 Summary statement and link to or an embedded prototype
 
 After trial-and-error through the low-fi prototype as well as a participant's testing, I made various key changes, including the clarity of words written in buttons, so that users can understand exactly where they will be redirected to. Of course, testing and design is meant upon which to be built, so that the app is more user-friendly, and aesthetically pleasing. Building the high-fi prototype to be interactive was a lengthy but rewarding process -- you get to see how your visioned app comes to life. 
