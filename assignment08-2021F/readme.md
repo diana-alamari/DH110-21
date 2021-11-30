@@ -76,26 +76,23 @@ I created two personas of potential app users: Eilana and Leo, both of which are
 
 **Leo**
 
-Persona and Empathy Mapping
+|Persona| Empathy Mapping|
+|------|-----------|
+|![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana.png?raw=true)|![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana-1.png?raw=true)|
 
-![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana.png?raw=true)
-![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana-1.png?raw=true)
-
-Scenario and Journey Mapping
-![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana's%20Scenario_%20Why%20and%20How.png?raw=true)
-
-![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana's%20Journey%20Map.png?raw=true)
+|Scenario | Journey Mapping|
+|---------|-------------|
+|![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana's%20Scenario_%20Why%20and%20How.png?raw=true)|![Leo Amri](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4%20(1)/Eilana's%20Journey%20Map.png?raw=true)|
 
 **Eilana**
 
-Persona and Empathy Mapping
+|Persona | Empathy Mapping|
+|--------| -------------|
+|![Eilana](https://github.com/diana-alamari/DH110-21/blob/main/a04/Eilana.png?raw=true)|![Eilana](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4/Eilana.png?raw=true)|
 
-![Eilana](https://github.com/diana-alamari/DH110-21/blob/main/a04/Eilana.png?raw=true)
-![Eilana](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4/Eilana.png?raw=true)
-
-Scenario and Journey Map
-![Eilana](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4/Eilana's%20Scenario_%20Why%20and%20How.png?raw=true)
-![Eilana](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4/Eilana's%20Journey%20Map.png?raw=true)
+|Scenario | Journey Map|
+|---------|------------|
+|![Eilana](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4/Eilana's%20Scenario_%20Why%20and%20How.png?raw=true)| ![Eilana](https://github.com/diana-alamari/DH110-21/blob/main/a04/persona%20a4/Eilana's%20Journey%20Map.png?raw=true)|
 
 To learn more about Eilana, Leo, and the perspective gained through their user journeys, 
 [refer here](https://github.com/diana-alamari/DH110-21/tree/main/a04)
@@ -194,12 +191,11 @@ I had multiple phases of revisions.
 - These improvements include a cleaner chat box design, the filter exit/checkmark, and areas with unclear wording. 
 
 
-**Previous interactive high-fi wireframes:**
+**Comparing first submission and current hi-fi wireframes:**
 
-![Wireframes before current revision](https://github.com/diana-alamari/DH110-21/blob/main/a07/wireflow%20a7%20.png?raw=true)
-
-**Current:**
-![Revised high-fi wireframes](https://github.com/diana-alamari/DH110-21/blob/main/a07/a7%20wireflow.png?raw=true)
+|Wireframes before current revision|Revised high-fi wireframes/wireflowd|
+|------|------|
+|![Wireframes before current revision](https://github.com/diana-alamari/DH110-21/blob/main/a07/wireflow%20a7%20.png?raw=true)|![Revised high-fi wireframes](https://github.com/diana-alamari/DH110-21/blob/main/a07/a7%20wireflow.png?raw=true)|
 
 
 
@@ -212,7 +208,7 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 
 
 ### Pitch video 
-(after this portfolio is done, you will record a pitch video and embed video here)
+(after this portfolio is done, I will record a pitch video and embed video here)
 
 ### Conclusion
 
