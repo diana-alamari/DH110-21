@@ -135,6 +135,7 @@ With design variation in mind, I created the following that was used for the hig
 ![Wireframes](https://github.com/diana-alamari/DH110-21/raw/main/a07/wireflow%20a7%20.png)
 ![Wireflow](https://github.com/diana-alamari/DH110-21/blob/main/a07/wireflow%20a7%20.png?raw=true)
 
+[View design variations](https://github.com/diana-alamari/DH110-21/blob/main/a06/readme.md)
 
 
 
