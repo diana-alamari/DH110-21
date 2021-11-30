@@ -92,15 +92,6 @@ To learn more about Eilana, Leo, and the perspective gained through their user j
 _
 
 
-### Wireframe and graphic design element variation [assignment06 + part of 07]
-
-Based on the user personas, I created wireframes that provide a basic layout of how the app looks and more importantly, what features will be included for target users (creatives traveling to or residing in Hawaii). 
-
-
-
-
-
-
 
 ### Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
@@ -122,17 +113,33 @@ With the wireflow done, The app's concept features has been cemented for the low
 
 
 
+
+### Wireframe and graphic design element variation [assignment06 + part of 07]
+
+Based on the user personas and feedback from a participant and the low fidelity prototype, I created wireframes. 
+
+The wireframes provide a basic layout of how the app looks and more importantly, what features will be included for target users (creatives traveling to or residing in Hawaii). 
+
+### _ ***I first started exploring design variations on just one wireframe. I created design variations as it relates to color, shape, and typographic content.
+
+I ended up pursing the following design:
+
+
+Based off feedback and the last pursued design, I applied the same theme to implement into completed wireframes that will be used for the high-fidelity prototype: 
+
+
+
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
 
-After trail-and-error through the low-fi prototype as well as a participant's testing, I made various key changes, including the clarity of words written in buttons, so that users can understand exactly where they will be redirected to. Of course, testing and design is meant upon which to be built, so that the app is more user-friendly, and aesthetically pleasing. Building the high-fi prototype to be interactive was a lengthy but rewarding process -- you get to see how your visioned app comes to life. 
+After trial-and-error through the low-fi prototype as well as a participant's testing, I made various key changes, including the clarity of words written in buttons, so that users can understand exactly where they will be redirected to. Of course, testing and design is meant upon which to be built, so that the app is more user-friendly, and aesthetically pleasing. Building the high-fi prototype to be interactive was a lengthy but rewarding process -- you get to see how your visioned app comes to life. 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/7MAiZOcY6fOEXr1NExItKh/a7-prototype?node-id=13%3A731&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=13%3A731&show-proto-sidebar=1" allowfullscreen></iframe>
 
 
 
 
-### Evaluation and revision history 
+### Evaluation and Revision History 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 ### Pitch video 
@@ -142,4 +149,13 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 what did you learn throughout the process?
 
 
-Throughout the learning process, I was satisfied with 
+Throughout the project's process, I was extremely satisfied with the amount of UX knowledge gained.  Building upon an app that people can use for music and film resources is something that I personally would love to utilize. The ability to implement essential component of UX/UI with creatives in the industry through my creative topic of interest has been truly invaluable. 
+
+
+There are a couple of aspects that I would change about the process of developing my project. Due to a time-related conflict along with a fairly short timeframe, I was limited in my ability to strengthen some elements more. For example, I would love to have created wireframes to prototype the community section of the app, since that is a large conceptual section in itself. Although I did utilize some of the following, I would have loved to invest further in subtle design effects that make a big difference in appearance -- such as creating linear gradients on each page, and drop shadows among various buttons. I also would have conducted mini steps of the whole process repeatedly to significantly strengthen the high-fidelity prototype. 
+
+Fortunately, I was able to focus instead on building foundational knowledge of how all the steps tie together, and demonstrate that understanding. There is definitely more envisioned than implemented. However, I can and will always strive to improve upon each section for future UX work -- I already have design (Photoshop as a hobby) and analytic research experience (college and current analyst job), so the UX process as a whole is most valuable to cement in my mind. 
+
+I aimed to conceptually address all the steps I would take to deliver the creative app I envisioned. From competitor analysis and user research to user storytelling and design, all areas are essential for a UX designer to have under their belt. I am happy that I gained such comprehensive UX skills and insight so quickly. 
+
+
