@@ -1,13 +1,13 @@
 # Creative Industry Resources: Visitors and Residents of Hawaii 
 ## Diana Alamari
 
-### Introduction: 
-What is the project about? The motivation of the project and possible contribution.
+### Introduction to Hawaii Creative Corner 
+*What is the project about? What is the motivation of the project and possible contribution?*
 
-The high-fidelity prototype I created is an event and resource app for creatives that are traveling or residing in Hawaii. I based my work off of the Hawaii Creative Industries Division (CID) website and utilized user experience processes to both improve upon parts of the site, as well as create a new derivative app that creatives would like. I was motivated to create a high-fidelity prototype after getting an understanding of user interests and evaluation through the steps mentioned below. 
+The high-fidelity app prototype is titled Hawaii Creative Corner. It is an event and resource app for creatives that are traveling or residing in Hawaii. I based my work off of the Hawaii Creative Industries Division (CID) website and utilized user experience processes to both improve upon parts of the site, as well as create a new derivative app that creatives would like. I was motivated to create a high-fidelity prototype after getting an understanding of user interests and evaluation through the steps mentioned below. 
 
 
-### Clear design statement: 
+### Clear design statement 
 
 *What is the issue and why do you think it is important to resolve that issue by your project?*
 
@@ -23,7 +23,7 @@ Users are able to message those who post events to find out more or chat about c
 To create more universal accessibility, I made sure to include resources inclusive to all music and film enthusiasts -- not only those who work in entertainment/actively perform creative work. Concerts are one example in which any music enthusiast would be interested, which is what the high-fidelity prototype demonstrates with clickable interaction.
 
 
-### Competitor analysis [assignment01 & 02]:
+### Competitor analysis
 
 
 | Hawaii Creative Industries| Hawaii Department of Health|
@@ -208,7 +208,9 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 
 
 ### Pitch video 
-(after this portfolio is done, I will record a pitch video and embed video here)
+
+[Click to see pitch of the project](https://youtu.be/0mGmOWeww0c)
+* Having difficulties processing the upload of the video. 
 
 ### Conclusion
 
