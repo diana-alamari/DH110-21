@@ -139,7 +139,8 @@ I first started exploring design variations on just one wireframe. I created des
 The wireframes provided a basic layout of how the app looks and more importantly, what features will be included for target users (creatives traveling to or residing in Hawaii). 
 
 I ended up pursing the following design:
-
+![Wireframes](https://github.com/diana-alamari/DH110-21/raw/main/a07/wireflow%20a7%20.png)
+![Wireflow](https://github.com/diana-alamari/DH110-21/blob/main/a07/wireflow%20a7%20.png?raw=true)
 
 Based off feedback and the last pursued design, I applied the same theme to implement into completed wireframes that will be used for the high-fidelity prototype: 
 
@@ -150,13 +151,23 @@ Summary statement and link to or an embedded prototype
 
 After trial-and-error through the low-fi prototype as well as a participant's testing, I made various key changes, including the clarity of words written in buttons, so that users can understand exactly where they will be redirected to. Of course, testing and design is meant upon which to be built, so that the app is more user-friendly, and aesthetically pleasing. Building the high-fi prototype to be interactive was a lengthy but rewarding process -- you get to see how your visioned app comes to life. 
 
+**Interactive Prototype**
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F7MAiZOcY6fOEXr1NExItKh%2Fa7-prototype%3Fnode-id%3D13%253A731%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D13%253A731%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 
+**Hi-Fi File**
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F7MAiZOcY6fOEXr1NExItKh%2Fa7-prototype%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 
+![Current Wireflow](https://github.com/diana-alamari/DH110-21/blob/main/a07/a7%20wireflow.png?raw=true)
 
-### Evaluation and Revision History 
+## Evaluation and Revision History 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+
+After the high-fidelity prototype was created, I had a couple of users evaluate it. This allowed me to spend more time noticing areas of improvement from both their perspective as well as my own (considering I am looking at the prototype along with them, and their ideas stimulate further ideas of my own.)
+
+### Revision History
+Before 
+![Wireframes before current revision](https://github.com/diana-alamari/DH110-21/blob/main/a07/wireflow%20a7%20.png?raw=true)
 
 ### Pitch video 
 (after this portfolio is done, you will record a pitch video and embed video here)
