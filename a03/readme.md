@@ -37,10 +37,11 @@ Script:
 https://docs.google.com/document/d/1HgdDD0rkNnRrruwE5uGPdWPmEEcApQfprglSwGsNrto/edit?usp=sharing
 
 Video:
-https://youtu.be/hvSDct-5okY
+![Watch video](https://youtu.be/hvSDct-5okY)
 
 Transcript:
 
+https://docs.google.com/document/d/1BTDzQDPpI0JAUfVyqiOUIKpqnNSDZPASNXZAL7fLCL4/edit?usp=sharing
 
 
 
