@@ -37,7 +37,7 @@ Script:
 https://docs.google.com/document/d/1HgdDD0rkNnRrruwE5uGPdWPmEEcApQfprglSwGsNrto/edit?usp=sharing
 
 Video:
-![Watch video](https://youtu.be/hvSDct-5okY)
+![Watch video](https://youtu.be/mx73aik3bpc)
 
 Transcript:
 
