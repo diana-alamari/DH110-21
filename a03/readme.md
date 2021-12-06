@@ -5,8 +5,7 @@ Diana Alamari | Digital Humanities 110 | User Experience and Design | Fall 2021
 The user research approach collects information on what resources are most significant to creatives/enthusiasts, as well as how they would look for them. The challenges in designing the app's concept lie in the multiple ideas I have for implementing beneficial features of the app. Transferring concepts into actual interactive app features will be more difficult because of this. I want to make sure that target users will benefit from efficient Hawaii resources implemented into the app, but I also want the interface to be simple. With contextual inquiry, I will be able to see what key features are valuable by actual prospective target users, in order to narrow down ideas for the app's features. 
 
 
-I interviewed a target user participant
- to get their feedback on two main questions: 
+I interviewed a target user participant to evaluate their interests/relevance to my Hawaii creative resource app's concept. I then had them perform two main tasks that may be useful for the app:
 
 
 
