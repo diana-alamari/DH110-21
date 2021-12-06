@@ -9,6 +9,16 @@ I interviewed a target user participant to evaluate their interests/relevance to
 
 
 
+
+[![Contextual Inquiry Interview](http://img.youtube.com/vi/2zzzQKmEzPM.jpg)](https://youtu.be/2zzzQKmEzPM)
+
+
+
+
+
+
+
+
 <details>
  <summary> 1. Research music events such as concerts or festivals that are in Hawaii. </summary>
     
