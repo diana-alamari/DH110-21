@@ -11,7 +11,7 @@ I interviewed a target user participant
 
 
 <details>
-  <summary> 1. Research music events such as concerts or festivals that are in Hawaii.
+ <summary> 1. Research music events such as concerts or festivals that are in Hawaii. </summary>
     
 >  - Can you go on Google or whatever method you would use to do this?
 >  - Can you select a concert, possibly one that you might be interested in?
@@ -20,7 +20,7 @@ I interviewed a target user participant
     
     
   <details>
-  <summary> 2. Can you research any website for music learning resources, or career resource related to music? 
+  <summary> 2. Can you research any website for music learning resources, or career resource related to music? </summary>
     
 >  - Can you research any website for music learning resources, or career resource related to music? Either or.
 >  - Do you like the layout and method of navigating?
