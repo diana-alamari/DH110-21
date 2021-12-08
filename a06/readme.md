@@ -3,8 +3,9 @@ Diana Alamari | Digital Humanities 110 | Fall 2021
 
 ## Introduction
 
-The purpose of my project is to provide music and film enthusiasts visiting/residing in Hawaii the ability to use one app for all their creative needs within Hawaii. They will be able to search for various creative events or resource they want, such as concerts, workshops, and recording studios. This interface design's purpose is to digitalize the low-fidelity prototypes, and create a common theme after exploring design variations. For design consideration, I referred to Hawaii Creative Industry's website, Google Fonts, Yelp, and Meetup. I digitalized the wireframes on Figma with the iPhone 11-sized wireframes. 
+The purpose of my project is to provide music and film enthusiasts visiting/residing in Hawaii the ability to use one app for all their creative needs within Hawaii. They will be able to search for various creative events or resource they want, such as concerts, workshops, and recording studios. This interface design's purpose is to digitalize the low-fidelity prototypes, and create a common theme after exploring design variations. For design consideration, I referred to Hawaii Creative Industry's website, Google Fonts, Yelp, and Meetup. I digitalized the wireframes on Figma with the iPhone 11-sized wireframes. Details of my design process as well as the digital file of my design variations are provided below.
 
+*Design variations and wireframes: https://www.figma.com/file/60yDKMkVGN9UHxclMeyv6p/a6-prototype-(Copy)?node-id=0%3A1*
 
 
 ### UI Screen Designs
@@ -42,7 +43,7 @@ Dark|![Dark mode, light text](https://github.com/diana-alamari/DH110-21/blob/mai
 
 https://youtu.be/5QTaqnH0chQ
 
-The user was asked to evaluate the design variations by color, typography, and shapes. He asked to switch between frames for deeper evaluation of each. The user expressed appeal in the combined shapes, the Amaranth text, and the dark mode. Ultimately, he seemed most confident in his opinion of the shapes and the color mode. 
+- The user was asked to evaluate the design variations by color, typography, and shapes. He asked to switch between frames for deeper evaluation of each. The user expressed appeal in the combined shapes, the Amaranth text, and the dark mode. Ultimately, he seemed most confident in his opinion of the shapes and the color mode. 
 
 ### Design details
 
