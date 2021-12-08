@@ -24,6 +24,11 @@ _______
 |Typography Variations|
 |![Typography A6](https://github.com/diana-alamari/DH110-21/blob/main/a06/a6%20typography.png?raw=true)
 
+### Accessibility Test
+![Light mode, black text](https://github.com/diana-alamari/DH110-21/blob/main/a06/light%20mode%20black%20text.png?raw=true)
+![Dark mode, white text](https://github.com/diana-alamari/DH110-21/blob/main/a06/dark%20mode%20white%20text.png?raw=true)
+![blah](blah)
+![blah](https://github.com/diana-alamari/DH110-21/blob/main/a06/dark%20mode%20white%20button.png?raw=true)
 
 ### Impression Test
 https://youtu.be/5QTaqnH0chQ
