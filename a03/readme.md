@@ -64,7 +64,14 @@ As I spoke with people with music backgrounds, I collected the following main ta
 - Workshops, creative studios, and career-oriented resources are all things that creatives seek. They want those to: improve upon their vocal, instrument, filming, or producing skills; surround themselves with fellow creatives for networking or friends; search/train for a job that is the right fit for their creative needs.
 - To use/possibly continue using the site, all users must have significant engagement with it. To do so, people must be able to swiftly and easily locate what they are looking for (a concert, the most recent general entertainment events, low-cost recording studios, film production workshops, etc.).
 
-The particular participant interviewed above loved the idea about a comprehensive resource app that anyone could upload. As a musician, he mentioned that it would be valuable to find niche activities, practice studios, and other resources that are somewhat difficult to find with a quick Google search. He endorsed this app's solutions for taking care of that through user/community uploads, community discussions, and filtering options.
+
+_
+
+The particular participant interviewed above loved the idea about a comprehensive resource app that anyone could upload. 
+
+The context in his case is: he has been in bands and performed since around the 1st grade. He knows multiple instruments but has committed to drums since then. He is advanced in playing drums, and he is  traveling to Hawaii in December 2021. He described the struggle of finding rehearsal studios and other music resources in new locations, and wants to be able to do so when he travels. Because of this, he particularly fit perfectly into my project (down to the part where he is actually going to Hawaii soon).
+
+As a musician, he mentioned that it would be valuable to find niche activities, practice studios, and other resources that are somewhat difficult to find with a quick Google search. He endorsed this app's solutions for taking care of that through user/community uploads, community discussions, and filtering options.
 
 
 ## Reflection
