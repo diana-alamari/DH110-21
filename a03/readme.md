@@ -86,6 +86,8 @@ As a musician, he mentioned that it would be valuable to find niche activities, 
 
 ## Reflection
 
-This research process was very interesting, and I was very satisfied with the plethora of information provided by the main participant I interviewed (from the video posted on here.) The participant specifically has professional music background and is even travelling to Hawaii during the holidays in December 2021. Additionally, he jumped ahead to questions I was going to ask, and gave thoughtful, additional input without me even asking. My participant selection was very efficient in this regard, because it allowed me to thoroughly understand what an actual musician/likely user interested in Hawaii would want to see in an app. 
+This research process was very interesting, and I was very satisfied with the plethora of information provided by the main participant I interviewed (from the video posted on here.) The participant specifically has professional music background and is even travelling to Hawaii during the holidays in December 2021. 
+
+Additionally, he jumped ahead to questions I was going to ask, and gave thoughtful, additional input without me even asking. My participant selection was very efficient in this regard, because it allowed me to thoroughly understand what an actual musician/likely user interested in Hawaii would want to see in an app. 
 
 I do think I could have articulated a bit better verbally, but otherwise, the key interview questions allowed me to gather valuable information for conceptualizing the app prototype. This video will be fantastic for reference in future app improvements, as well. 
