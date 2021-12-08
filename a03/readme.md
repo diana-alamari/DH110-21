@@ -69,7 +69,13 @@ _
 
 The particular participant interviewed above loved the idea about a comprehensive resource app that anyone could upload. 
 
-The context in his case is: he has been in bands and performed since around the 1st grade. He knows multiple instruments but has committed to drums since then. He is advanced in playing drums, and he is  traveling to Hawaii in December 2021. He described the struggle of finding rehearsal studios and other music resources in new locations, and wants to be able to do so when he travels. Because of this, he particularly fit perfectly into my project (down to the part where he is actually going to Hawaii soon).
+The context in his case is:
+- He has been in bands and performed since around the 1st grade. 
+- He knows multiple instruments but has committed to drums since then. 
+- He is advanced in playing drums.
+- He is  traveling to Hawaii in December 2021. 
+
+He described the struggle of finding rehearsal studios and other music resources in new locations, and wants to be able to do so when he travels. Because of this, he *particularly* fit perfectly into my project (down to the part where he is actually going to Hawaii soon).
 
 As a musician, he mentioned that it would be valuable to find niche activities, practice studios, and other resources that are somewhat difficult to find with a quick Google search. He endorsed this app's solutions for taking care of that through user/community uploads, community discussions, and filtering options.
 
