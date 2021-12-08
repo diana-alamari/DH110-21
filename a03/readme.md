@@ -44,9 +44,10 @@ I interviewed a target user participant to evaluate their interests/relevance to
 Script:
 https://docs.google.com/document/d/1HgdDD0rkNnRrruwE5uGPdWPmEEcApQfprglSwGsNrto/edit?usp=sharing
 
-Video:
-![Watch video](https://youtu.be/mx73aik3bpc)
-[![Contextual Inquiry Interview](http://img.youtube.com/vi/2zzzQKmEzPM.jpg)](https://youtu.be/2zzzQKmEzPM)
+Interview Video:
+https://youtu.be/2zzzQKmEzPM
+
+![[Contextual Inquiry Interview](http://img.youtube.com/vi/2zzzQKmEzPM.jpg)](https://youtu.be/2zzzQKmEzPM)
 
 Transcript:
 
