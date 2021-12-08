@@ -75,7 +75,9 @@ The context in his case is:
 - He is advanced in playing drums.
 - He is  traveling to Hawaii in December 2021. 
 
-He described the struggle of finding rehearsal studios and other music resources in new locations, and wants to be able to do so when he travels. Because of this, he *particularly* fit perfectly into my project (down to the part where he is actually going to Hawaii soon).
+He described the struggle of finding rehearsal studios and other music resources in new locations, and wants to be able to do so when he travels. 
+
+Because of this, he *particularly* fit perfectly into my project (down to the part where he is actually going to Hawaii soon).
 
 As a musician, he mentioned that it would be valuable to find niche activities, practice studios, and other resources that are somewhat difficult to find with a quick Google search. He endorsed this app's solutions for taking care of that through user/community uploads, community discussions, and filtering options.
 
